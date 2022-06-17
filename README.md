@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GN-5
 - 👀 I’m interested in Developig Software
-- 🌱 I’m currently learning Phython
+- 🌱 I’m currently learning Data Analysis with Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
